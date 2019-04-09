@@ -3,7 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="resource"/>
-	<classpathentry excluding="src/|resource/" kind="src" path=""/>
 	<classpathentry kind="lib" path="lib/activiti-app-logic-6.0.0-sources.jar"/>
 	<classpathentry kind="lib" path="lib/activiti-app-logic-6.0.0.jar"/>
 	<classpathentry kind="lib" path="lib/activiti-app-rest-6.0.0-sources.jar"/>
