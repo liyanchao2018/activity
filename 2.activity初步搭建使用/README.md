@@ -134,3 +134,16 @@ public static void main(String[] args) {
 条件查询,分页查询,降序排列结果:5~~~~GroupA5~~~TYPE_5
 ```
 
+
+
+#### 4.任务权限：
+
+ * 		**任务候选人（组）**
+      * 		参考``com.luckli.activity.candidate.TaskUser``
+           * 		设置任务的候选用户组，查询这个用户有权限处理的任务列表；
+ * 		**任务持有人**
+      * 		参考``com.luckli.activity.candidate.OwnerCandidate``
+           * 		设置任务的候选用户组，根据用户来查询他所持有的任务列表；
+ * 		**任务代理人**
+      * 		参考``com.luckli.activity.candidate.ClaimCandidate``
+           * 		设置任务的候选用户组，根据用户来查询他所持有的任务列表；
